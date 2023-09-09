@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Jam's github stats](https://github-readme-stats.vercel.app/api?username=wzyonggege&show_icons=true)
-
-
 ## Pinned
 
 ### Python
