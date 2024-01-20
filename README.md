@@ -1,6 +1,17 @@
 ### Hi there 👋
 
 ## Pinned
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzyonggege&hide=html"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=wzyonggege&show_icons=true"/> 
+      <br/>
+      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   <img align="right" src="https://profile-counter.glitch.me/wzyonggege/count.svg" /> </h2> 
+    </td>
+  </tr>
+</table>
+
 
 ### Python
 
